@@ -1,0 +1,33 @@
+Opera House:
+python main.py -33.856098 151.214184 -33.858352 151.215814
+
+The Bean Chicago:
+python main.py 41.882981 -87.623496 41.882397 -87.623076
+
+Greater Chicago Area:
+python main.py 41.968574 -87.752519 41.774917 -87.566837
+
+Effel Tower Paris:
+python main.py 48.859261 2.293362 48.856953 2.296194
+
+31st Street Chicago:
+python main.py 41.838928 -87.628503 41.838244 -87.626847
+
+Staten Island in New York:
+python main.py 40.638058 -74.254028 40.504013 -74.061080
+
+IIT Campus:
+python main.py 41.839341 -87.629504 41.831092 -87.623239
+
+Chicago Loop:
+python main.py 41.888438 -87.644858 41.848298 -87.614988
+
+Navy Pier:
+python main.py 41.893812 -87.615195 41.885108 -87.597778
+
+
+
+
+
+
+
